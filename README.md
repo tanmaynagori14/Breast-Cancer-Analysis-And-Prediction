@@ -37,7 +37,7 @@ The confusion matrix is a table used to describe the performance of the classifi
 |-----------------|--------------|----------------|---------------|---------------|----------------|
 | Class=Yes       | Class=Yes    | True Positive  | False Negative| False Positive| True Negative  |
 
-![image](https://github.com/tanmaynagori14/Breast-Cancer-Analysis-And-Prediction/assets/97458530/45bc91fa-0258-4488-a57f-a71f7c6f197a)
+![image](https://github.com/tanmaynagori14/Breast-Cancer-Analysis-And-Prediction/assets/97458530/58f30ce3-b708-497b-a206-b315ec5f66d7)
 
 ![image](https://github.com/tanmaynagori14/Breast-Cancer-Analysis-And-Prediction/assets/97458530/1d8208d6-f73d-403a-aa8e-4e41b5d1cd87)
 
