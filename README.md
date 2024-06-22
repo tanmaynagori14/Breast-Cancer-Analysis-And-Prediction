@@ -26,6 +26,9 @@ This project aims to develop a predictive model for breast cancer using various 
 | LR        | 0.97     | 0.96      | 0.98   | 0.97     | 0.97          |
 | KNN       | 0.95     | 0.94      | 0.96   | 0.95     | 0.94          |
 
+![image](https://github.com/tanmaynagori14/Breast-Cancer-Analysis-And-Prediction/assets/97458530/d24713c6-e3d4-4bab-831b-1900ef3091a5)
+
+
 ## Confusion Matrix
 
 The confusion matrix is a table used to describe the performance of the classification model on the test data:
@@ -33,6 +36,11 @@ The confusion matrix is a table used to describe the performance of the classifi
 | Predicted Class | Actual Class | Class=Yes (TP) | Class=No (FN) | Class=No (FP) | Class=Yes (TN) |
 |-----------------|--------------|----------------|---------------|---------------|----------------|
 | Class=Yes       | Class=Yes    | True Positive  | False Negative| False Positive| True Negative  |
+
+![image](https://github.com/tanmaynagori14/Breast-Cancer-Analysis-And-Prediction/assets/97458530/45bc91fa-0258-4488-a57f-a71f7c6f197a)
+
+![image](https://github.com/tanmaynagori14/Breast-Cancer-Analysis-And-Prediction/assets/97458530/1d8208d6-f73d-403a-aa8e-4e41b5d1cd87)
+
 
 ## Project Team
 
@@ -49,10 +57,7 @@ Netaji Subhas University of Technology (NSUT)
 
 For any queries or further information, please contact:
 
-- **Tanmay Nagori**: tanmay.nagori@example.com
-- **Avi Vaswani**: avi.vaswani@example.com
-- **Deepanshu**: deepanshu@example.com
-- **Pravesh Gupta**: pravesh.gupta@example.com
+- **Tanmay Nagori**: tanmay14nagori@gmail.com
 
 ## Acknowledgments
 
